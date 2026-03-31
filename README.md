@@ -64,16 +64,6 @@ Security • Cryptography • Authentication
 
 ---
 
-## ⚙️ Core Skills
-
-- Backend development and system architecture  
-- Concurrent programming  
-- Data structures and algorithms  
-- Complex problem solving  
-- Logical and mathematical reasoning  
-
----
-
 ## 📫 Contact
 
 - Email: franciscoduartetav@gmail.com  
