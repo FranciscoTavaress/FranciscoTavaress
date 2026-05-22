@@ -25,45 +25,6 @@ Kotlin • Java • C • Spring • PostgreSQL • Docker
 Backend • Distributed Systems • Concurrency • REST APIs • System Design  
 Security • Cryptography • Authentication
 
----
-
-## 🚀 Projects
-
-### 🏢 Insurance Portal Workflow (IPW) — *ongoing*
-- Web application for managing insurance claim workflows  
-- Design of client-server architecture with REST API  
-- Multi-user system with roles and access control  
-- Workflow with multiple stages (creation, analysis, validation, approval)  
-- Developed with real stakeholders and requirement analysis  
-- Designed to support real-world workflow processes and business logic
-  
----
-
-### 🃏 Poker Dice Game (Full-stack system)
-- Multi-user system with backend (JVM + HTTP API) and frontend  
-- Real-time communication using Server-Sent Events (SSE)  
-- Token-based authentication and access control  
-- State management (lobbies, players, turns, rounds)  
-- PostgreSQL integration and complex business logic  
-
----
-
-### 🎮 Space Invaders (Hardware + Software)
-- System integrating hardware and software components  
-- Implementation of multiple state machines  
-- Low-level programming and direct hardware interaction  
-- Focus on synchronization, control flow and low-level system behavior  
-
----
-
-### 🔐 Security Work
-- Implementation of cryptographic algorithms (AES, RSA, HMAC, SHA256)  
-- Authenticated encryption and digital signatures  
-- Analysis of authentication protocols (OAuth2, OpenID Connect)
-- Focus on secure communication and system-level security concepts
-
----
-
 ## 📫 Contact
 
 - Email: franciscoduartetav@gmail.com  
